@@ -1,5 +1,6 @@
 node-express-grunt-starter
 =================
+[![Build Status](https://travis-ci.org/marcusmolchany/node-express-grunt-starter.svg?branch=master)](https://travis-ci.org/marcusmolchany/node-express-grunt-starter)
 
 This repository is a starting point for any node/express project. Grunt.js is also included with a set of common grunt tasks.
 
