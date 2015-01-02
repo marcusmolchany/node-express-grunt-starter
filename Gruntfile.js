@@ -82,5 +82,11 @@ module.exports = function(grunt) {
     'cssmin'
   ]);
   grunt.registerTask('watchTask', ['watch']);
-  
+  grunt.registerTask('build', [
+    'jshint',
+    'concat',
+    'uglify',
+    'cssmin'
+  ]);
+ 
 };
